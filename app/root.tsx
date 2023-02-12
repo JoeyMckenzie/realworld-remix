@@ -7,9 +7,7 @@ import {
   Scripts,
   ScrollRestoration,
 } from '@remix-run/react';
-import Footer from './components/layout/Footer';
 import Layout from './components/layout/Layout';
-import Navbar from './components/layout/Navbar';
 
 export const meta: MetaFunction = () => ({
   charset: 'utf-8',
