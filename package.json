@@ -22,6 +22,7 @@
     "turbo": "^1.7.4"
   },
   "devDependencies": {
+    "@playwright/test": "^1.30.0",
     "@remix-run/dev": "^1.12.0",
     "@remix-run/eslint-config": "^1.12.0",
     "@remix-run/serve": "^1.12.0",
